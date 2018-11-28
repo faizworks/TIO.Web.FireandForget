@@ -1,0 +1,56 @@
+INFO 2018-11-28 01:30:56 AM – - Background task started
+INFO 2018-11-28 01:30:56 AM – - - Doing something started
+INFO 2018-11-28 01:30:56 AM – - - - Interation 0 started
+INFO 2018-11-28 01:31:06 AM – - - - Interation 0 finished
+INFO 2018-11-28 01:31:06 AM – - - - Interation 1 started
+INFO 2018-11-28 01:31:16 AM – - - - Interation 1 finished
+INFO 2018-11-28 01:31:16 AM – - - - Interation 2 started
+INFO 2018-11-28 01:31:26 AM – - - - Interation 2 finished
+INFO 2018-11-28 01:31:26 AM – - - - Interation 3 started
+INFO 2018-11-28 01:31:36 AM – - - - Interation 3 finished
+INFO 2018-11-28 01:31:36 AM – - - - Interation 4 started
+INFO 2018-11-28 01:31:46 AM – - - - Interation 4 finished
+INFO 2018-11-28 01:31:46 AM – - - - Interation 5 started
+INFO 2018-11-28 01:31:57 AM – - - - Interation 5 finished
+INFO 2018-11-28 01:31:57 AM – - - Doing something finished
+INFO 2018-11-28 01:31:57 AM – - Background task ended
+INFO 2018-11-28 01:43:29 AM – - Background task started
+INFO 2018-11-28 01:43:29 AM – - - Doing something started
+INFO 2018-11-28 01:43:29 AM – - - - Interation 0 started
+INFO 2018-11-28 01:43:39 AM – - - - Interation 0 finished
+INFO 2018-11-28 01:43:39 AM – - - - Interation 1 started
+INFO 2018-11-28 01:43:49 AM – - - - Interation 1 finished
+INFO 2018-11-28 01:43:49 AM – - - - Interation 2 started
+INFO 2018-11-28 01:43:59 AM – - - - Interation 2 finished
+INFO 2018-11-28 01:43:59 AM – - - - Interation 3 started
+INFO 2018-11-28 01:44:09 AM – - - - Interation 3 finished
+INFO 2018-11-28 01:44:09 AM – - - - Interation 4 started
+INFO 2018-11-28 01:44:19 AM – - - - Interation 4 finished
+INFO 2018-11-28 01:44:19 AM – - - - Interation 5 started
+INFO 2018-11-28 01:44:29 AM – - - - Interation 5 finished
+INFO 2018-11-28 01:44:29 AM – - - - Interation 6 started
+INFO 2018-11-28 01:44:39 AM – - - - Interation 6 finished
+INFO 2018-11-28 01:44:39 AM – - - - Interation 7 started
+INFO 2018-11-28 01:44:49 AM – - - - Interation 7 finished
+INFO 2018-11-28 01:44:49 AM – - - - Interation 8 started
+INFO 2018-11-28 01:44:59 AM – - - - Interation 8 finished
+INFO 2018-11-28 01:44:59 AM – - - - Interation 9 started
+INFO 2018-11-28 01:45:09 AM – - - - Interation 9 finished
+INFO 2018-11-28 01:45:09 AM – - - - Interation 10 started
+INFO 2018-11-28 01:45:19 AM – - - - Interation 10 finished
+INFO 2018-11-28 01:45:19 AM – - - - Interation 11 started
+INFO 2018-11-28 01:45:29 AM – - - - Interation 11 finished
+INFO 2018-11-28 01:45:29 AM – - - - Interation 12 started
+INFO 2018-11-28 01:45:39 AM – - - - Interation 12 finished
+INFO 2018-11-28 01:45:39 AM – - - - Interation 13 started
+INFO 2018-11-28 01:45:49 AM – - - - Interation 13 finished
+INFO 2018-11-28 01:45:49 AM – - - - Interation 14 started
+INFO 2018-11-28 01:45:59 AM – - - - Interation 14 finished
+INFO 2018-11-28 01:45:59 AM – - - - Interation 15 started
+INFO 2018-11-28 01:46:09 AM – - - - Interation 15 finished
+INFO 2018-11-28 01:46:09 AM – - - - Interation 16 started
+INFO 2018-11-28 01:46:19 AM – - - - Interation 16 finished
+INFO 2018-11-28 01:46:19 AM – - - - Interation 17 started
+INFO 2018-11-28 01:46:29 AM – - - - Interation 17 finished
+INFO 2018-11-28 01:46:29 AM – - - Doing something finished
+INFO 2018-11-28 01:46:29 AM – - Background task ended
